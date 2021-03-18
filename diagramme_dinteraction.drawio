@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T13:16:35.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="_EjwBZCW1wGQPxY7KAQ5" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-18T13:19:50.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ahsiWnwAk3Ybyju62WdB" version="14.4.9" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_CNvDfxLPx1KFOB0ygyv-10" value="confirmation assignation nom employé qui va livrer" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=12;" edge="1" parent="1">
+        <mxCell id="_CNvDfxLPx1KFOB0ygyv-10" value="confirmation assignation nom employé qui va livrer + temps livraison" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=12;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="634" y="520" as="sourcePoint" />
             <mxPoint x="230" y="520" as="targetPoint" />
@@ -173,8 +173,8 @@
         <mxCell id="_CNvDfxLPx1KFOB0ygyv-35" value="employé ok pour livraison&lt;br&gt;+ temps livraison" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="647" y="495" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_CNvDfxLPx1KFOB0ygyv-36" value="prix à payer + temps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="600" width="140" height="20" as="geometry" />
+        <mxCell id="_CNvDfxLPx1KFOB0ygyv-36" value="prix à payer + temps commande à emporter ou commande livraison" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_CNvDfxLPx1KFOB0ygyv-37" value="assignationNumeroPourCommandeEmporter()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry x="0.0667" relative="1" as="geometry">
